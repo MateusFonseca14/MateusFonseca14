@@ -21,23 +21,3 @@ Always curious and motivated, I believe in continuous learning and in transformi
 
 #
 
-### 📊 Stats
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10 px;" 
-    src="https://github-readme-stats.vercel.app/api?username=MateusFonseca14&show_icons=true&theme=gruvbox&include_all_commits=true&locale=en" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusFonseca14&theme=gruvbox&layout=compact&custom_title=Technologies&langs_count=9" 
-  />
-
-</p>
-
