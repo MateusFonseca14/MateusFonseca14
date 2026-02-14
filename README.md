@@ -28,7 +28,7 @@ Always curious and motivated, I believe in continuous learning and in transformi
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10 px;" 
     src="https://github-readme-stats.vercel.app/api?username=MateusFonseca14&show_icons=true&theme=gruvbox&include_all_commits=true&locale=en" 
   />
 
