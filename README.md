@@ -34,5 +34,7 @@
 ![Mateus GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=MateusFonseca14&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MateusFonseca14&size_weight=0.5&count_weight=0.5)
 
+**Note**: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
 #
 
