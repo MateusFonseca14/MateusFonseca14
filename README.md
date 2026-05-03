@@ -28,15 +28,11 @@
 
 ### 🔥 Streak Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MateusFonseca14&theme=dark&locale=pt_BR&currStreakLabel=298B0E&fire=298B0E&ring=298B0E&dates=B9B9B9&background=45%2C000000%2C363636)](https://git.io/streak-stats)
+[[![GitHub Streak](https://streak-stats.demolab.com?user=MateusFonseca14&theme=dark&ring=35803B&fire=52C65B&currStreakLabel=35803B&sideLabels=35803B&sideNums=52C65B&currStreakNum=52C65B&dates=EBEBEB)](https://git.io/streak-stats)
 
 ### 💻 GitHub Profile Stats
 ![Mateus GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=MateusFonseca14&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MateusFonseca14&size_weight=0.5&count_weight=0.5)
-
-![Mateus GitHub stats](https://vercel.app)
-![Top Langs](https://vercel.app)
-
 
 #
 
