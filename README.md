@@ -1,7 +1,7 @@
  👩🏻‍💻  [![Typing SVG](https://readme-typing-svg.vercel.app?font=Fira+Code&weight=500&size=64&pause=1000&color=52C65B&background=15151500&center=true&vCenter=true&repeat=false&width=1500&height=100&lines=Mateus+Fonseca)](https://git.io/typing-svg)
      [![Typing SVG](https://readme-typing-svg.vercel.app?font=Fira+Code&weight=500&size=64&pause=1000&color=35803B&background=15151500&center=true&vCenter=true&width=1500&height=100&lines=Full-Stack+Developer)](https://git.io/typing-svg)
 
-**`Full-Stack Developer`**
+**`Full-Stack Developer in Training`**
 
 👋 Hi there, I’m Mateus José Souza Fonseca, a 24-year-old student from Brazil, currently pursuing a degree in Analysis and Systems Development at Unicesumar.
 
