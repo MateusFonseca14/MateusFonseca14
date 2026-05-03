@@ -24,7 +24,7 @@
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MateusFonseca14&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MateusFonseca14&theme=dark&locale=pt_BR&currStreakLabel=298B0E&fire=298B0E&ring=298B0E&dates=B9B9B9&background=45%2C000000%2C363636)](https://git.io/streak-stats)
 
 #
 
