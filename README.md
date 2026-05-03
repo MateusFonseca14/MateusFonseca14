@@ -32,7 +32,7 @@
 
 ### 💻 GitHub Profile Stats
 ![Mateus GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=MateusFonseca14&show_icons=true&theme=dark&title_color=52C65B&text_color=EBEBEB&icon_color=35803B&rank_icon=github)
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MateusFonseca14&size_weight=0.5&count_weight=0.5&layout=compact&)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MateusFonseca14&size_weight=0.5&count_weight=0.5&layout=compact&theme=dark&title_color=52C65B&text_color=EBEBEB)
 
 **Note**: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
