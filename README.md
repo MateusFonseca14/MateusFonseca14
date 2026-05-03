@@ -34,5 +34,9 @@
 ![Mateus GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=MateusFonseca14&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MateusFonseca14&size_weight=0.5&count_weight=0.5)
 
+![Mateus GitHub stats](https://vercel.app)
+![Top Langs](https://vercel.app)
+
+
 #
 
