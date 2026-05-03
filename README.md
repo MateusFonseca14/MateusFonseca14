@@ -23,6 +23,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME)
 
 <br/>
+
 ---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MateusFonseca14&theme=dark&locale=pt_BR&currStreakLabel=298B0E&fire=298B0E&ring=298B0E&dates=B9B9B9&background=45%2C000000%2C363636)](https://git.io/streak-stats)
