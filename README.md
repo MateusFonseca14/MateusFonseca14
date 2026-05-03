@@ -28,7 +28,7 @@
 
 ### 🔥 Streak Stats
 
-[[![GitHub Streak](https://streak-stats.demolab.com?user=MateusFonseca14&theme=dark&ring=35803B&fire=52C65B&currStreakLabel=35803B&sideLabels=35803B&sideNums=52C65B&currStreakNum=52C65B&dates=EBEBEB)](https://git.io/streak-stats)
+[[![GitHub Streak](https://streak-stats.demolab.com?user=MateusFonseca14&theme=dark&ring=35803B&fire=52C65B&currStreakLabel=35803B&sideLabels=35803B&sideNums=52C65B&currStreakNum=52C65B&dates=EBEBEB)(https://git.io/streak-stats)
 
 ### 💻 GitHub Profile Stats
 ![Mateus GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=MateusFonseca14&show_icons=true&theme=dark&title_color=52C65B&text_color=EBEBEB&icon_color=35803B&rank_icon=github)
