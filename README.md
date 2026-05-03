@@ -1,4 +1,5 @@
-# 👩🏻‍💻 Mateus Fonseca
+# 👩🏻‍💻 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=64&pause=1000&color=52C65B&background=15151500&center=true&vCenter=true&multiline=true&width=1500&height=250&lines=Mateus+Fonseca)](https://git.io/typing-svg)
+#     [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=64&pause=1000&color=35803B&background=15151500&center=true&vCenter=true&multiline=true&width=1500&height=250&lines=Full-Stack+Developer)](https://git.io/typing-svg)
 
 **`Full-Stack Developer`**
 
@@ -33,7 +34,6 @@
 ### 💻 GitHub Profile Stats
 ![Mateus GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=MateusFonseca14&show_icons=true&theme=dark&title_color=52C65B&text_color=EBEBEB&icon_color=35803B&rank_icon=github)
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MateusFonseca14&size_weight=0.5&count_weight=0.5&layout=compact&theme=dark&title_color=52C65B&text_color=EBEBEB)
-<div class="tenor-gif-embed" data-postid="18012824063550014397" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/symbol-code-coding-symbol-gif-18012824063550014397">Symbol Code Sticker</a>from <a href="https://tenor.com/search/symbol-stickers">Symbol Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 **Note**: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
