@@ -1,5 +1,5 @@
    [![Typing SVG](https://readme-typing-svg.vercel.app?font=Fira+Code&weight=500&size=64&pause=1000&color=52C65B&background=15151500&center=true&vCenter=true&repeat=false&width=1500&height=100&lines=Mateus+Fonseca)](https://git.io/typing-svg)
-     [![Typing SVG](https://readme-typing-svg.vercel.app?font=Fira+Code&weight=500&size=64&pause=1000&color=35803B&background=15151500&center=true&vCenter=true&width=1500&height=100&lines=Full-Stack+Developer)](https://git.io/typing-svg)
+     [![Typing SVG](https://readme-typing-svg.vercel.app?font=Fira+Code&weight=500&size=56&pause=1000&color=35803B&background=15151500&center=true&vCenter=true&width=1500&height=100&lines=Full-Stack+Developer)](https://git.io/typing-svg)
 
 <img width="866" height="288" alt="ezgif com-optipng" src="https://github.com/user-attachments/assets/fb6e6229-e348-4e07-b1d2-09bd876c16f5" />
 <br>
@@ -16,6 +16,9 @@
 🧠 Always curious and motivated, I believe in continuous learning and in transforming ideas into efficient code.
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/mateus-fonseca-a6aab3376/)
+<a href="https://www.linkedin.com/in/mateus-fonseca-a6aab3376/" target="_blank">
+  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn">
+</a>
 </details>
 
 #
