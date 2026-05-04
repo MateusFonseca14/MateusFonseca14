@@ -1,7 +1,8 @@
    [![Typing SVG](https://readme-typing-svg.vercel.app?font=Fira+Code&weight=500&size=64&pause=1000&color=52C65B&background=15151500&center=true&vCenter=true&repeat=false&width=1500&height=100&lines=Mateus+Fonseca)](https://git.io/typing-svg)
      [![Typing SVG](https://readme-typing-svg.vercel.app?font=Fira+Code&weight=500&size=56&pause=1000&color=35803B&background=15151500&center=true&vCenter=true&width=1500&height=100&lines=Full-Stack+Developer)](https://git.io/typing-svg)
 
-<img width="866" height="288" alt="ezgif com-optipng" src="https://github.com/user-attachments/assets/fb6e6229-e348-4e07-b1d2-09bd876c16f5" />
+<img width="866" height="288" alt="Texto do seu parágrafo (8)" src="https://github.com/user-attachments/assets/4a6a52fa-1e15-4efa-9824-c9dd6c4c2e41" />
+
 <br>
 
 <details>
