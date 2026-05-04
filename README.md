@@ -6,6 +6,7 @@
 
 <details>
   <summary><h3>👩🏻‍💻 About me</h3></summary>
+   
 👋 Hi there, I’m Mateus José Souza Fonseca, a 24-year-old student from Brazil, currently pursuing a degree in Analysis and Systems Development at Unicesumar.
 
 🚀 With a strong interest in Full-Stack Development, I’m focused on learning and improving my skills to build complete and scalable solutions.
