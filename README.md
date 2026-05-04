@@ -16,9 +16,7 @@
 🧠 Always curious and motivated, I believe in continuous learning and in transforming ideas into efficient code.
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/mateus-fonseca-a6aab3376/)
-<a href="https://www.linkedin.com/in/mateus-fonseca-a6aab3376/" target="_blank">
-  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn">
-</a>
+
 </details>
 
 #
