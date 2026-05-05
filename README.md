@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=80&section=header&text=&fontSize=50&color=35803B)
+![header](https://capsule-render.vercel.app/api?type=waving&height=80&section=header&text=&fontSize=50&color=35803B)
 
    [![Typing SVG](https://readme-typing-svg.vercel.app?font=Fira+Code&weight=500&size=64&pause=1000&color=52C65B&background=15151500&center=true&vCenter=true&repeat=false&width=1500&height=100&lines=Mateus+Fonseca)](https://git.io/typing-svg)
      [![Typing SVG](https://readme-typing-svg.vercel.app?font=Fira+Code&weight=500&size=56&pause=1000&color=35803B&background=15151500&center=true&vCenter=true&width=1500&height=100&lines=Full-Stack+Developer)](https://git.io/typing-svg)
@@ -48,4 +48,4 @@
 
 **Note**: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=80&section=footer&text=&fontSize=50&reversal=true&color=52C65B)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&text=&fontSize=50&reversal=true&color=52C65B)
