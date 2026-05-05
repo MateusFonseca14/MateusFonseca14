@@ -5,7 +5,7 @@
 
 <br>
 
-<details>
+<details open>
   <summary><h3>👩🏻‍💻 About me</h3></summary>
    
 👋 Hi there, I’m Mateus José Souza Fonseca, a 24-year-old student from Brazil, currently pursuing a degree in Analysis and Systems Development at Unicesumar.
@@ -16,9 +16,13 @@
 
 🧠 Always curious and motivated, I believe in continuous learning and in transforming ideas into efficient code.
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/mateus-fonseca-a6aab3376/)
-
 </details>
+
+#
+
+### 🌐 Social Media and Email
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mateus-fonseca-a6aab3376/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devmateusfonseca@gmail.com)
 
 #
 
