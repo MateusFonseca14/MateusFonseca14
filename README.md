@@ -3,7 +3,11 @@
    [![Typing SVG](https://readme-typing-svg.vercel.app?font=Fira+Code&weight=500&size=64&pause=1000&color=52C65B&background=15151500&center=true&vCenter=true&repeat=false&width=1500&height=65&lines=Mateus+Fonseca)](https://git.io/typing-svg)
      [![Typing SVG](https://readme-typing-svg.vercel.app?font=Fira+Code&weight=500&size=56&pause=1000&color=35803B&background=15151500&center=true&vCenter=true&width=1500&height=100&lines=Full-Stack+Developer)](https://git.io/typing-svg)
 
-<img width="866" height="288" alt="Textodoseupargrafo2-ezgif com-optimize" src="https://github.com/user-attachments/assets/eff42da0-d1a0-4e18-9d46-21a146992987" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/6e6dc66d-ad2f-4dd2-8c71-0bfd3eedf3e9">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/c1b54f4b-7936-46e4-befe-b908ce4ad3a6">
+  <img alt="Textodoseupargrafo2-ezgif com-optimize" src="https://github.com/user-attachments/assets/5544fbb2-80ae-430c-9e6c-eadd22b1a6e7">
+</picture>
 
 <br>
 
