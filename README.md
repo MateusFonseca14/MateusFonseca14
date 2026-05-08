@@ -10,6 +10,7 @@
 </picture>
 
 <br>
+<br>
 
 <details open>
   <summary><picture>
